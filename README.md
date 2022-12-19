@@ -3,6 +3,11 @@
 
 Nesse curso você vai dominar o **Git** e **GitHub** _do zero ao profissional_.
 
+## Updates
+- [x] Site Responsivo.
+- [ ] Login com facebook.
+- [ ] Página sobre a empresa.
+
 ## Lista não ordenada:
 * Começando com Git, _(Entendento o que é **Git**.)_.
 * Aprendendo sobre branches.
@@ -39,5 +44,6 @@ function showName(name){
 <h1>
 Titulo do Projeto.
  <span>Curso Git</span>
- </h1>
+</h1>
 ```
+

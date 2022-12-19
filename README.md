@@ -47,3 +47,8 @@ Titulo do Projeto.
 </h1>
 ```
 
+Propriedade | Descrição
+------------|----------
+name | informar o nome do usuario
+size | para definir o tamanho do campo
+backgroud | cor de fundo da area em HEX

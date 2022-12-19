@@ -21,6 +21,6 @@ Nesse curso você vai dominar o **Git** e **GitHub** _do zero ao profissional_.
 
 [youtube](https://www.youtube.com/)
 
->Esse é um bloquequote, usado para destacar alguma área 
+>Esse é um blockquote, usado para destacar alguma área 
 >
 >Segunda área destacada

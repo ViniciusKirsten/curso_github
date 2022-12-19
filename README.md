@@ -41,10 +41,3 @@ Titulo do Projeto.
  <span>Curso Git</span>
  </h1>
 ```
-
-## Testando com Java
-```java
-public static Testando(){
-    System.out.println("hello");
-}
-```

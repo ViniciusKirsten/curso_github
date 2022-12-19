@@ -20,3 +20,7 @@ Nesse curso você vai dominar o **Git** e **GitHub** _do zero ao profissional_.
 [instagram](https://www.instagram.com/vini_kirsten/)
 
 [youtube](https://www.youtube.com/)
+
+>Esse é um bloquequote, usado para destacar alguma área 
+>
+>Segunda área destacada
